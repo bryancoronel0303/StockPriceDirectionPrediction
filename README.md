@@ -1,2 +1,4 @@
-# StockPriceDirectionPrediction
-Final project for CSE 543T @ WashU
+# README - 543 Algorithms for Nonlinear Optimization Course Project
+Group: Lewis Wang, Alex Greene, Charles Troutman, Bryan Coronel
+
+To reproduce the results found in our final project report, please run the jupyter notebooks found in the software package. Our data used is also attached as "APPL.csv". Notebooks are separated by model and optimization method. The LSTM notebook contains code for all optimization methods tested for our LSTM model. Each notebook is already set to run, given that the data file is in the same directory. Comments are also found in the notebooks describing the code and decisions made for our project.
